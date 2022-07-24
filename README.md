@@ -1,2 +1,2 @@
-# Spring-Study
-Spring 문법 학습
+# Android developer
+안드로이드 개발
